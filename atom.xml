@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>美猴王lzx</title>
+  
+  <subtitle>一切恐惧和失误都源于无知，去理解，去感受，然后再判断</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-01T11:21:40.585Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Zachary Lin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图书分类--</title>
+    <link href="http://yoursite.com/2019/03/28/%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB/"/>
+    <id>http://yoursite.com/2019/03/28/图书分类/</id>
+    <published>2019-03-27T18:40:00.000Z</published>
+    <updated>2019-04-01T11:21:40.585Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="图书分类"><a href="#图书分类" class="headerlink" title="图书分类"></a>图书分类</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;图书分类&quot;&gt;&lt;a href=&quot;#图书分类&quot; class=&quot;headerlink&quot; title=&quot;图书分类&quot;&gt;&lt;/a&gt;图书分类&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;header
+      
+    
+    </summary>
+    
+      <category term="图书" scheme="http://yoursite.com/categories/%E5%9B%BE%E4%B9%A6/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E5%9B%BE%E4%B9%A6/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>英语</title>
+    <link href="http://yoursite.com/2019/03/26/%E8%8B%B1%E8%AF%AD/"/>
+    <id>http://yoursite.com/2019/03/26/英语/</id>
+    <published>2019-03-26T06:53:00.000Z</published>
+    <updated>2019-03-25T14:55:10.970Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;英语&quot;&gt;&lt;a href=&quot;#英语&quot; class=&quot;headerlink&quot; title=&quot;英语&quot;&gt;&lt;/a&gt;英语&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+      <category term="英语" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>艺术</title>
+    <link href="http://yoursite.com/2019/03/26/%E8%89%BA%E6%9C%AF/"/>
+    <id>http://yoursite.com/2019/03/26/艺术/</id>
+    <published>2019-03-25T23:01:00.000Z</published>
+    <updated>2019-03-25T15:01:38.532Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="艺术" scheme="http://yoursite.com/categories/%E8%89%BA%E6%9C%AF/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E8%89%BA%E6%9C%AF/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>体育</title>
+    <link href="http://yoursite.com/2019/03/26/%E4%BD%93%E8%82%B2/"/>
+    <id>http://yoursite.com/2019/03/26/体育/</id>
+    <published>2019-03-25T22:59:00.000Z</published>
+    <updated>2019-03-25T14:59:42.470Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="体育" scheme="http://yoursite.com/categories/%E4%BD%93%E8%82%B2/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>劳动</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%8A%B3%E5%8A%A8/"/>
+    <id>http://yoursite.com/2019/03/26/劳动/</id>
+    <published>2019-03-25T22:59:00.000Z</published>
+    <updated>2019-03-25T15:00:33.147Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="劳动" scheme="http://yoursite.com/categories/%E5%8A%B3%E5%8A%A8/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E5%8A%B3%E5%8A%A8/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>计算机</title>
+    <link href="http://yoursite.com/2019/03/26/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <id>http://yoursite.com/2019/03/26/计算机/</id>
+    <published>2019-03-25T22:59:00.000Z</published>
+    <updated>2019-03-25T14:59:19.780Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>地理</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%9C%B0%E7%90%86/"/>
+    <id>http://yoursite.com/2019/03/26/地理/</id>
+    <published>2019-03-25T22:58:00.000Z</published>
+    <updated>2019-03-25T14:58:22.087Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="地理" scheme="http://yoursite.com/categories/%E5%9C%B0%E7%90%86/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E5%9C%B0%E7%90%86/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>历史</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%8E%86%E5%8F%B2/"/>
+    <id>http://yoursite.com/2019/03/26/历史/</id>
+    <published>2019-03-25T22:57:00.000Z</published>
+    <updated>2019-03-25T14:57:58.481Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="历史" scheme="http://yoursite.com/categories/%E5%8E%86%E5%8F%B2/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E5%8E%86%E5%8F%B2/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>政治</title>
+    <link href="http://yoursite.com/2019/03/26/%E6%94%BF%E6%B2%BB/"/>
+    <id>http://yoursite.com/2019/03/26/政治/</id>
+    <published>2019-03-25T22:57:00.000Z</published>
+    <updated>2019-03-25T14:57:29.094Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="政治" scheme="http://yoursite.com/categories/%E6%94%BF%E6%B2%BB/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E6%94%BF%E6%B2%BB/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生物</title>
+    <link href="http://yoursite.com/2019/03/26/%E7%94%9F%E7%89%A9/"/>
+    <id>http://yoursite.com/2019/03/26/生物/</id>
+    <published>2019-03-25T22:56:00.000Z</published>
+    <updated>2019-03-25T14:56:54.503Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="生物" scheme="http://yoursite.com/categories/%E7%94%9F%E7%89%A9/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E7%94%9F%E7%89%A9/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>化学</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%8C%96%E5%AD%A6/"/>
+    <id>http://yoursite.com/2019/03/26/化学/</id>
+    <published>2019-03-25T22:55:00.000Z</published>
+    <updated>2019-03-25T14:56:20.260Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="化学" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>物理</title>
+    <link href="http://yoursite.com/2019/03/26/%E7%89%A9%E7%90%86/"/>
+    <id>http://yoursite.com/2019/03/26/物理/</id>
+    <published>2019-03-25T22:55:00.000Z</published>
+    <updated>2019-03-25T14:55:40.453Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="物理" scheme="http://yoursite.com/categories/%E7%89%A9%E7%90%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>语文</title>
+    <link href="http://yoursite.com/2019/03/26/%E8%AF%AD%E6%96%87/"/>
+    <id>http://yoursite.com/2019/03/26/语文/</id>
+    <published>2019-03-25T22:54:00.000Z</published>
+    <updated>2019-03-25T14:54:45.920Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到语文的世界"><a href="#欢迎来到语文的世界" class="headerlink" title="欢迎来到语文的世界"></a>欢迎来到语文的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到语文的世界&quot;&gt;&lt;a href=&quot;#欢迎来到语文的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到语文的世界&quot;&gt;&lt;/a&gt;欢迎来到语文的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="英语" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>大学</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%A4%A7%E5%AD%A6/"/>
+    <id>http://yoursite.com/2019/03/26/大学/</id>
+    <published>2019-03-25T22:40:00.000Z</published>
+    <updated>2019-03-25T14:41:06.657Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="大学"><a href="#大学" class="headerlink" title="大学"></a>大学</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;大学&quot;&gt;&lt;a href=&quot;#大学&quot; class=&quot;headerlink&quot; title=&quot;大学&quot;&gt;&lt;/a&gt;大学&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>初中</title>
+    <link href="http://yoursite.com/2019/03/26/%E5%88%9D%E4%B8%AD/"/>
+    <id>http://yoursite.com/2019/03/26/初中/</id>
+    <published>2019-03-25T22:38:00.000Z</published>
+    <updated>2019-03-25T14:39:26.028Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="初中"><a href="#初中" class="headerlink" title="初中"></a>初中</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数学综述</title>
+    <link href="http://yoursite.com/2019/03/25/%E6%95%B0%E5%AD%A6-Mathematics/"/>
+    <id>http://yoursite.com/2019/03/25/数学-Mathematics/</id>
+    <published>2019-03-25T14:08:00.000Z</published>
+    <updated>2019-03-24T14:29:23.170Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到数学的世界"><a href="#欢迎来到数学的世界" class="headerlink" title="欢迎来到数学的世界"></a>欢迎来到数学的世界</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;欢迎来到数学的世界&quot;&gt;&lt;a href=&quot;#欢迎来到数学的世界&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到数学的世界&quot;&gt;&lt;/a&gt;欢迎来到数学的世界&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="数学" scheme="http://yoursite.com/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="综述" scheme="http://yoursite.com/categories/%E6%95%B0%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
+    
+    
+      <category term="综述" scheme="http://yoursite.com/tags/%E7%BB%BC%E8%BF%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo搭建博客</title>
+    <link href="http://yoursite.com/2019/02/28/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/02/28/hexo搭建博客/</id>
+    <published>2019-02-28T10:47:58.000Z</published>
+    <updated>2019-02-28T05:50:34.490Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://hexo.io/zh-cn/docs/commands" target="_blank" rel="noopener">https://hexo.io/zh-cn/docs/commands</a></p><p><a href="https://www.jianshu.com/p/24cb74aeb0a3" target="_blank" rel="noopener">https://www.jianshu.com/p/24cb74aeb0a3</a></p><h1 id="使用hexo搭建个人博客"><a href="#使用hexo搭建个人博客" class="headerlink" title="使用hexo搭建个人博客"></a>使用hexo搭建个人博客</h1><hr><p>使用hexo搭建博客：</p><blockquote><ul><li>整理知识，学习笔记</li><li>发布日记，杂文，所见所想</li><li>撰写发布技术文稿（代码支持）</li><li>撰写发布学术论文（LaTeX 公式支持）</li></ul></blockquote><hr><h2 id="安装流程"><a href="#安装流程" class="headerlink" title="安装流程"></a>安装流程</h2><h3 id><a href="#" class="headerlink" title=" "></a> </h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git --version</span><br><span class="line">$ sudo apt-get install git-core</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/commands&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo.io/zh-cn/docs/commands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客书写指南</title>
+    <link href="http://yoursite.com/2019/02/28/%E4%B9%A6%E5%86%99%E6%8C%87%E5%8D%97/"/>
+    <id>http://yoursite.com/2019/02/28/书写指南/</id>
+    <published>2019-02-28T00:56:00.000Z</published>
+    <updated>2019-02-28T02:55:21.440Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="noopener">https://www.zybuluo.com/mdeditor</a></p><h1 id="欢迎使用-Cmd-Markdown-编辑阅读器"><a href="#欢迎使用-Cmd-Markdown-编辑阅读器" class="headerlink" title="欢迎使用 Cmd Markdown 编辑阅读器"></a>欢迎使用 Cmd Markdown 编辑阅读器</h1><hr><p>我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，<strong>Cmd Markdown</strong> 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：</p><blockquote><ul><li>整理知识，学习笔记</li><li>发布日记，杂文，所见所想</li><li>撰写发布技术文稿（代码支持）</li><li>撰写发布学术论文（LaTeX 公式支持）</li></ul></blockquote><p><img src="https://www.zybuluo.com/static/img/logo.png" alt="cmd-markdown-logo"></p><p>除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：</p><h3 id="Windows-Mac-Linux-全平台客户端"><a href="#Windows-Mac-Linux-全平台客户端" class="headerlink" title="Windows/Mac/Linux 全平台客户端"></a><a href="https://www.zybuluo.com/cmd/" target="_blank" rel="noopener">Windows/Mac/Linux 全平台客户端</a></h3><blockquote><p>请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> <strong>新文稿</strong> 或者使用快捷键 <code>Ctrl+Alt+N</code>。</p></blockquote><hr><h2 id="什么是-Markdown"><a href="#什么是-Markdown" class="headerlink" title="什么是 Markdown"></a>什么是 Markdown</h2><p>Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，<strong>粗体</strong> 或者 <em>斜体</em> 某些文字，更棒的是，它还可以</p><h3 id="1-制作一份待办事宜-Todo-列表"><a href="#1-制作一份待办事宜-Todo-列表" class="headerlink" title="1. 制作一份待办事宜 Todo 列表"></a>1. 制作一份待办事宜 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表" target="_blank" rel="noopener">Todo 列表</a></h3><ul><li>[ ] 支持以 PDF 格式导出文稿</li><li>[ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率</li><li>[x] 新增 Todo 列表功能</li><li>[x] 修复 LaTex 公式渲染问题</li><li>[x] 新增 LaTex 公式编号功能</li></ul><h3 id="2-书写一个质能守恒公式LaTeX"><a href="#2-书写一个质能守恒公式LaTeX" class="headerlink" title="2. 书写一个质能守恒公式LaTeX"></a>2. 书写一个质能守恒公式<sup><a href="#fn_LaTeX" id="reffn_LaTeX">LaTeX</a></sup></h3><p>测试</p><script type="math/tex; mode=display">lim_{1\to+\infty}P(|\frac{1}{n}\sum_i^nX_i-\mu|<\epsilon)=1, i=1,...,n</script><p>代码</p><h3 id="3-高亮一段代码code"><a href="#3-高亮一段代码code" class="headerlink" title="3. 高亮一段代码code"></a>3. 高亮一段代码<sup><a href="#fn_code" id="reffn_code">code</a></sup></h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@requires_authorization</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span></span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</span><br><span class="line">    <span class="comment"># A comment</span></span><br><span class="line">    <span class="keyword">print</span> <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure><h3 id="4-高效绘制-流程图"><a href="#4-高效绘制-流程图" class="headerlink" title="4. 高效绘制 流程图"></a>4. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图" target="_blank" rel="noopener">流程图</a></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">st=&gt;start: Start</span><br><span class="line">op=&gt;operation: Your Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure><h3 id="5-高效绘制-序列图"><a href="#5-高效绘制-序列图" class="headerlink" title="5. 高效绘制 序列图"></a>5. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-序列图" target="_blank" rel="noopener">序列图</a></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Alice-&gt;Bob: Hello Bob, how are you?</span><br><span class="line">Note right of Bob: Bob thinks</span><br><span class="line">Bob--&gt;Alice: I am good thanks!</span><br></pre></td></tr></table></figure><h3 id="6-高效绘制-甘特图"><a href="#6-高效绘制-甘特图" class="headerlink" title="6. 高效绘制 甘特图"></a>6. 高效绘制 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#9-甘特图" target="_blank" rel="noopener">甘特图</a></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">title 项目开发流程</span><br><span class="line">section 项目确定</span><br><span class="line">    需求分析       :a1, 2016-06-22, 3d</span><br><span class="line">    可行性报告     :after a1, 5d</span><br><span class="line">    概念验证       : 5d</span><br><span class="line">section 项目实施</span><br><span class="line">    概要设计      :2016-07-05  , 5d</span><br><span class="line">    详细设计      :2016-07-08, 10d</span><br><span class="line">    编码          :2016-07-15, 10d</span><br><span class="line">    测试          :2016-07-22, 5d</span><br><span class="line">section 发布验收</span><br><span class="line">    发布: 2d</span><br><span class="line">    验收: 3d</span><br></pre></td></tr></table></figure><h3 id="7-绘制表格"><a href="#7-绘制表格" class="headerlink" title="7. 绘制表格"></a>7. 绘制表格</h3><div class="table-container"><table><thead><tr><th>项目</th><th style="text-align:right">价格</th><th style="text-align:center">数量</th></tr></thead><tbody><tr><td>计算机</td><td style="text-align:right">$1600</td><td style="text-align:center">5</td></tr><tr><td>手机</td><td style="text-align:right">$12</td><td style="text-align:center">12</td></tr><tr><td>管线</td><td style="text-align:right">$1</td><td style="text-align:center">234</td></tr></tbody></table></div><h3 id="8-更详细语法说明"><a href="#8-更详细语法说明" class="headerlink" title="8. 更详细语法说明"></a>8. 更详细语法说明</h3><p>想要查看更详细的语法说明，可以参考我们准备的 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown" target="_blank" rel="noopener">Cmd Markdown 简明语法手册</a>，进阶用户可以参考 <a href="https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册" target="_blank" rel="noopener">Cmd Markdown 高阶语法手册</a> 了解更多高级功能。</p><p>总而言之，不同于其它 <em>所见即所得</em> 的编辑器：你只需使用键盘专注于书写文本内容，就可以生成印刷级的排版格式，省却在键盘和工具栏之间来回切换，调整内容和格式的麻烦。<strong>Markdown 在流畅的书写和印刷级的阅读体验之间找到了平衡。</strong> 目前它已经成为世界上最大的技术分享网站 GitHub 和 技术问答网站 StackOverFlow 的御用书写格式。</p><hr><h2 id="什么是-Cmd-Markdown"><a href="#什么是-Cmd-Markdown" class="headerlink" title="什么是 Cmd Markdown"></a>什么是 Cmd Markdown</h2><p>您可以使用很多工具书写 Markdown，但是 Cmd Markdown 是这个星球上我们已知的、最好的 Markdown 工具——没有之一 ：）因为深信文字的力量，所以我们和你一样，对流畅书写，分享思想和知识，以及阅读体验有极致的追求，我们把对于这些诉求的回应整合在 Cmd Markdown，并且一次，两次，三次，乃至无数次地提升这个工具的体验，最终将它演化成一个 <strong>编辑/发布/阅读</strong> Markdown 的在线平台——您可以在任何地方，任何系统/设备上管理这里的文字。</p><h3 id="1-实时同步预览"><a href="#1-实时同步预览" class="headerlink" title="1. 实时同步预览"></a>1. 实时同步预览</h3><p>我们将 Cmd Markdown 的主界面一分为二，左边为<strong>编辑区</strong>，右边为<strong>预览区</strong>，在编辑区的操作会实时地渲染到预览区方便查看最终的版面效果，并且如果你在其中一个区拖动滚动条，我们有一个巧妙的算法把另一个区的滚动条同步到等价的位置，超酷！</p><h3 id="2-编辑工具栏"><a href="#2-编辑工具栏" class="headerlink" title="2. 编辑工具栏"></a>2. 编辑工具栏</h3><p>也许您还是一个 Markdown 语法的新手，在您完全熟悉它之前，我们在 <strong>编辑区</strong> 的顶部放置了一个如下图所示的工具栏，您可以使用鼠标在工具栏上调整格式，不过我们仍旧鼓励你使用键盘标记格式，提高书写的流畅度。</p><p><img src="https://www.zybuluo.com/static/img/toolbar-editor.png" alt="tool-editor"></p><h3 id="3-编辑模式"><a href="#3-编辑模式" class="headerlink" title="3. 编辑模式"></a>3. 编辑模式</h3><p>完全心无旁骛的方式编辑文字：点击 <strong>编辑工具栏</strong> 最右侧的拉伸按钮或者按下 <code>Ctrl + M</code>，将 Cmd Markdown 切换到独立的编辑模式，这是一个极度简洁的写作环境，所有可能会引起分心的元素都已经被挪除，超清爽！</p><h3 id="4-实时的云端文稿"><a href="#4-实时的云端文稿" class="headerlink" title="4. 实时的云端文稿"></a>4. 实时的云端文稿</h3><p>为了保障数据安全，Cmd Markdown 会将您每一次击键的内容保存至云端，同时在 <strong>编辑工具栏</strong> 的最右侧提示 <code>已保存</code> 的字样。无需担心浏览器崩溃，机器掉电或者地震，海啸——在编辑的过程中随时关闭浏览器或者机器，下一次回到 Cmd Markdown 的时候继续写作。</p><h3 id="5-离线模式"><a href="#5-离线模式" class="headerlink" title="5. 离线模式"></a>5. 离线模式</h3><p>在网络环境不稳定的情况下记录文字一样很安全！在您写作的时候，如果电脑突然失去网络连接，Cmd Markdown 会智能切换至离线模式，将您后续键入的文字保存在本地，直到网络恢复再将他们传送至云端，即使在网络恢复前关闭浏览器或者电脑，一样没有问题，等到下次开启 Cmd Markdown 的时候，她会提醒您将离线保存的文字传送至云端。简而言之，我们尽最大的努力保障您文字的安全。</p><h3 id="6-管理工具栏"><a href="#6-管理工具栏" class="headerlink" title="6. 管理工具栏"></a>6. 管理工具栏</h3><p>为了便于管理您的文稿，在 <strong>预览区</strong> 的顶部放置了如下所示的 <strong>管理工具栏</strong>：</p><p><img src="https://www.zybuluo.com/static/img/toolbar-manager.jpg" alt="tool-manager"></p><p>通过管理工具栏可以：</p><p><i class="icon-share">&lt;/i&gt; 发布：将当前的文稿生成固定链接，在网络上发布，分享<br><i class="icon-file"></i> 新建：开始撰写一篇新的文稿<br><i class="icon-trash">&lt;/i&gt; 删除：删除当前的文稿<br><i class="icon-cloud"></i> 导出：将当前的文稿转化为 Markdown 文本或者 Html 格式，并导出到本地<br><i class="icon-reorder">&lt;/i&gt; 列表：所有新增和过往的文稿都可以在这里查看、操作<br><i class="icon-pencil"></i> 模式：切换 普通/Vim/Emacs 编辑模式</i></i></i></p><h3 id="7-阅读工具栏"><a href="#7-阅读工具栏" class="headerlink" title="7. 阅读工具栏"></a>7. 阅读工具栏</h3><p><img src="https://www.zybuluo.com/static/img/toolbar-reader.jpg" alt="tool-manager"></p><p>通过 <strong>预览区</strong> 右上角的 <strong>阅读工具栏</strong>，可以查看当前文稿的目录并增强阅读体验。</p><p>工具栏上的五个图标依次为：</p><p><i class="icon-list">&lt;/i&gt; 目录：快速导航当前文稿的目录结构以跳转到感兴趣的段落<br><i class="icon-chevron-sign-left"></i> 视图：互换左边编辑区和右边预览区的位置<br><i class="icon-adjust">&lt;/i&gt; 主题：内置了黑白两种模式的主题，试试 <strong>黑色主题</strong>，超炫！<br><i class="icon-desktop"></i> 阅读：心无旁骛的阅读模式提供超一流的阅读体验<br><i class="icon-fullscreen"></i> 全屏：简洁，简洁，再简洁，一个完全沉浸式的写作和阅读环境</i></i></p><h3 id="8-阅读模式"><a href="#8-阅读模式" class="headerlink" title="8. 阅读模式"></a>8. 阅读模式</h3><p>在 <strong>阅读工具栏</strong> 点击 <i class="icon-desktop"></i> 或者按下 <code>Ctrl+Alt+M</code> 随即进入独立的阅读模式界面，我们在版面渲染上的每一个细节：字体，字号，行间距，前背景色都倾注了大量的时间，努力提升阅读的体验和品质。</p><h3 id="9-标签、分类和搜索"><a href="#9-标签、分类和搜索" class="headerlink" title="9. 标签、分类和搜索"></a>9. 标签、分类和搜索</h3><p>在编辑区任意行首位置输入以下格式的文字可以标签当前文档：</p><p>标签： 未分类</p><p>标签以后的文稿在【文件列表】（Ctrl+Alt+F）里会按照标签分类，用户可以同时使用键盘或者鼠标浏览查看，或者在【文件列表】的搜索文本框内搜索标题关键字过滤文稿，如下图所示：</p><p><img src="https://www.zybuluo.com/static/img/file-list.png" alt="file-list"></p><h3 id="10-文稿发布和分享"><a href="#10-文稿发布和分享" class="headerlink" title="10. 文稿发布和分享"></a>10. 文稿发布和分享</h3><p>在您使用 Cmd Markdown 记录，创作，整理，阅读文稿的同时，我们不仅希望它是一个有力的工具，更希望您的思想和知识通过这个平台，连同优质的阅读体验，将他们分享给有相同志趣的人，进而鼓励更多的人来到这里记录分享他们的思想和知识，尝试点击 <i class="icon-share"></i> (Ctrl+Alt+P) 发布这份文档给好友吧！</p><hr><p>再一次感谢您花费时间阅读这份欢迎稿，点击 <i class="icon-file"></i> (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！</p><p>作者 <a href="http://weibo.com/ghosert" target="_blank" rel="noopener">@ghosert</a><br>2016 年 07月 07日    </p><blockquote id="fn_LaTeX"><sup>LaTeX</sup>. 支持 <strong>LaTeX</strong> 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MathJax</a> 参考更多使用方法。<a href="#reffn_LaTeX" title="Jump back to footnote [LaTeX] in the text."> &#8617;</a></blockquote><blockquote id="fn_code"><sup>code</sup>. 代码高亮功能支持包括 Java, Python, JavaScript 在内的，<strong>四十一</strong>种主流编程语言。<a href="#reffn_code" title="Jump back to footnote [code] in the text."> &#8617;</a></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.zybuluo.com/mdeditor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.zybuluo.com/mdeditor&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;欢迎使用-Cmd-Markd
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>自我介绍</title>
+    <link href="http://yoursite.com/2019/02/28/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://yoursite.com/2019/02/28/自我介绍/</id>
+    <published>2019-02-27T19:37:49.000Z</published>
+    <updated>2019-02-27T11:38:00.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>My name is zachary.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My name is zachary.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>高中</title>
+    <link href="http://yoursite.com/2011/03/26/%E9%AB%98%E4%B8%AD/"/>
+    <id>http://yoursite.com/2011/03/26/高中/</id>
+    <published>2011-03-25T22:39:00.000Z</published>
+    <updated>2019-03-25T14:43:18.192Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="高中"><a href="#高中" class="headerlink" title="高中"></a>高中</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;高中&quot;&gt;&lt;a href=&quot;#高中&quot; class=&quot;headerlink&quot; title=&quot;高中&quot;&gt;&lt;/a&gt;高中&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>小学</title>
+    <link href="http://yoursite.com/2002/03/26/%E7%AB%A5%E5%B9%B4/"/>
+    <id>http://yoursite.com/2002/03/26/童年/</id>
+    <published>2002-03-26T05:58:00.000Z</published>
+    <updated>2019-03-26T05:56:50.058Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="小学"><a href="#小学" class="headerlink" title="小学"></a>小学</h1><hr><p>……</p><hr><h2 id="什么是数学"><a href="#什么是数学" class="headerlink" title="什么是数学"></a>什么是数学</h2><p>数学是…….</p><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>…….</p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>…….</p><h2 id="如何学数学"><a href="#如何学数学" class="headerlink" title="如何学数学"></a>如何学数学</h2><p>如何学</p><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-1"><a href="#2-1" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程"><a href="#数学课程" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-2"><a href="#2-2" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-1"><a href="#3-1" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-1"><a href="#4-1" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><h2 id="数学课程-1"><a href="#数学课程-1" class="headerlink" title="数学课程"></a>数学课程</h2><p>相关书</p><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>……</p><h3 id="2-3"><a href="#2-3" class="headerlink" title="2."></a>2.</h3><p>……</p><h3 id="3-2"><a href="#3-2" class="headerlink" title="3."></a>3.</h3><p>……</p><h3 id="4-2"><a href="#4-2" class="headerlink" title="4."></a>4.</h3><p>……</p><hr><p>……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;小学&quot;&gt;&lt;a href=&quot;#小学&quot; class=&quot;headerlink&quot; title=&quot;小学&quot;&gt;&lt;/a&gt;小学&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;什么是数学&quot;&gt;&lt;a href=&quot;#什么是数学&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+    
+    
+  </entry>
+  
+</feed>
