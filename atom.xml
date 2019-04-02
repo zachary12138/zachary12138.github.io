@@ -5,9 +5,9 @@
   <subtitle>一切恐惧和失误都源于无知，去理解，去感受，然后再判断</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zachary12138.github.io/"/>
   <updated>2019-04-01T11:21:40.585Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zachary12138.github.io/</id>
   
   <author>
     <name>Zachary Lin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>图书分类--</title>
-    <link href="http://yoursite.com/2019/03/28/%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB/"/>
-    <id>http://yoursite.com/2019/03/28/图书分类/</id>
+    <link href="http://zachary12138.github.io/2019/03/28/%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB/"/>
+    <id>http://zachary12138.github.io/2019/03/28/图书分类/</id>
     <published>2019-03-27T18:40:00.000Z</published>
     <updated>2019-04-01T11:21:40.585Z</updated>
     
@@ -37,17 +37,17 @@
     
     </summary>
     
-      <category term="图书" scheme="http://yoursite.com/categories/%E5%9B%BE%E4%B9%A6/"/>
+      <category term="图书" scheme="http://zachary12138.github.io/categories/%E5%9B%BE%E4%B9%A6/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E5%9B%BE%E4%B9%A6/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E5%9B%BE%E4%B9%A6/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>英语</title>
-    <link href="http://yoursite.com/2019/03/26/%E8%8B%B1%E8%AF%AD/"/>
-    <id>http://yoursite.com/2019/03/26/英语/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E8%8B%B1%E8%AF%AD/"/>
+    <id>http://zachary12138.github.io/2019/03/26/英语/</id>
     <published>2019-03-26T06:53:00.000Z</published>
     <updated>2019-03-25T14:55:10.970Z</updated>
     
@@ -65,17 +65,17 @@
     
     </summary>
     
-      <category term="英语" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+      <category term="英语" scheme="http://zachary12138.github.io/categories/%E8%8B%B1%E8%AF%AD/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>艺术</title>
-    <link href="http://yoursite.com/2019/03/26/%E8%89%BA%E6%9C%AF/"/>
-    <id>http://yoursite.com/2019/03/26/艺术/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E8%89%BA%E6%9C%AF/"/>
+    <id>http://zachary12138.github.io/2019/03/26/艺术/</id>
     <published>2019-03-25T23:01:00.000Z</published>
     <updated>2019-03-25T15:01:38.532Z</updated>
     
@@ -93,17 +93,17 @@
     
     </summary>
     
-      <category term="艺术" scheme="http://yoursite.com/categories/%E8%89%BA%E6%9C%AF/"/>
+      <category term="艺术" scheme="http://zachary12138.github.io/categories/%E8%89%BA%E6%9C%AF/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E8%89%BA%E6%9C%AF/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E8%89%BA%E6%9C%AF/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>体育</title>
-    <link href="http://yoursite.com/2019/03/26/%E4%BD%93%E8%82%B2/"/>
-    <id>http://yoursite.com/2019/03/26/体育/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E4%BD%93%E8%82%B2/"/>
+    <id>http://zachary12138.github.io/2019/03/26/体育/</id>
     <published>2019-03-25T22:59:00.000Z</published>
     <updated>2019-03-25T14:59:42.470Z</updated>
     
@@ -111,15 +111,15 @@
     
     </summary>
     
-      <category term="体育" scheme="http://yoursite.com/categories/%E4%BD%93%E8%82%B2/"/>
+      <category term="体育" scheme="http://zachary12138.github.io/categories/%E4%BD%93%E8%82%B2/"/>
     
     
   </entry>
   
   <entry>
     <title>劳动</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%8A%B3%E5%8A%A8/"/>
-    <id>http://yoursite.com/2019/03/26/劳动/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%8A%B3%E5%8A%A8/"/>
+    <id>http://zachary12138.github.io/2019/03/26/劳动/</id>
     <published>2019-03-25T22:59:00.000Z</published>
     <updated>2019-03-25T15:00:33.147Z</updated>
     
@@ -137,17 +137,17 @@
     
     </summary>
     
-      <category term="劳动" scheme="http://yoursite.com/categories/%E5%8A%B3%E5%8A%A8/"/>
+      <category term="劳动" scheme="http://zachary12138.github.io/categories/%E5%8A%B3%E5%8A%A8/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E5%8A%B3%E5%8A%A8/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E5%8A%B3%E5%8A%A8/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>计算机</title>
-    <link href="http://yoursite.com/2019/03/26/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    <id>http://yoursite.com/2019/03/26/计算机/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <id>http://zachary12138.github.io/2019/03/26/计算机/</id>
     <published>2019-03-25T22:59:00.000Z</published>
     <updated>2019-03-25T14:59:19.780Z</updated>
     
@@ -165,17 +165,17 @@
     
     </summary>
     
-      <category term="计算机" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="http://zachary12138.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>地理</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%9C%B0%E7%90%86/"/>
-    <id>http://yoursite.com/2019/03/26/地理/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%9C%B0%E7%90%86/"/>
+    <id>http://zachary12138.github.io/2019/03/26/地理/</id>
     <published>2019-03-25T22:58:00.000Z</published>
     <updated>2019-03-25T14:58:22.087Z</updated>
     
@@ -193,17 +193,17 @@
     
     </summary>
     
-      <category term="地理" scheme="http://yoursite.com/categories/%E5%9C%B0%E7%90%86/"/>
+      <category term="地理" scheme="http://zachary12138.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E5%9C%B0%E7%90%86/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E5%9C%B0%E7%90%86/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>历史</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%8E%86%E5%8F%B2/"/>
-    <id>http://yoursite.com/2019/03/26/历史/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%8E%86%E5%8F%B2/"/>
+    <id>http://zachary12138.github.io/2019/03/26/历史/</id>
     <published>2019-03-25T22:57:00.000Z</published>
     <updated>2019-03-25T14:57:58.481Z</updated>
     
@@ -221,17 +221,17 @@
     
     </summary>
     
-      <category term="历史" scheme="http://yoursite.com/categories/%E5%8E%86%E5%8F%B2/"/>
+      <category term="历史" scheme="http://zachary12138.github.io/categories/%E5%8E%86%E5%8F%B2/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E5%8E%86%E5%8F%B2/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E5%8E%86%E5%8F%B2/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>政治</title>
-    <link href="http://yoursite.com/2019/03/26/%E6%94%BF%E6%B2%BB/"/>
-    <id>http://yoursite.com/2019/03/26/政治/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E6%94%BF%E6%B2%BB/"/>
+    <id>http://zachary12138.github.io/2019/03/26/政治/</id>
     <published>2019-03-25T22:57:00.000Z</published>
     <updated>2019-03-25T14:57:29.094Z</updated>
     
@@ -249,17 +249,17 @@
     
     </summary>
     
-      <category term="政治" scheme="http://yoursite.com/categories/%E6%94%BF%E6%B2%BB/"/>
+      <category term="政治" scheme="http://zachary12138.github.io/categories/%E6%94%BF%E6%B2%BB/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E6%94%BF%E6%B2%BB/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E6%94%BF%E6%B2%BB/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>生物</title>
-    <link href="http://yoursite.com/2019/03/26/%E7%94%9F%E7%89%A9/"/>
-    <id>http://yoursite.com/2019/03/26/生物/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E7%94%9F%E7%89%A9/"/>
+    <id>http://zachary12138.github.io/2019/03/26/生物/</id>
     <published>2019-03-25T22:56:00.000Z</published>
     <updated>2019-03-25T14:56:54.503Z</updated>
     
@@ -277,17 +277,17 @@
     
     </summary>
     
-      <category term="生物" scheme="http://yoursite.com/categories/%E7%94%9F%E7%89%A9/"/>
+      <category term="生物" scheme="http://zachary12138.github.io/categories/%E7%94%9F%E7%89%A9/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E7%94%9F%E7%89%A9/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E7%94%9F%E7%89%A9/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>化学</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%8C%96%E5%AD%A6/"/>
-    <id>http://yoursite.com/2019/03/26/化学/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%8C%96%E5%AD%A6/"/>
+    <id>http://zachary12138.github.io/2019/03/26/化学/</id>
     <published>2019-03-25T22:55:00.000Z</published>
     <updated>2019-03-25T14:56:20.260Z</updated>
     
@@ -305,17 +305,17 @@
     
     </summary>
     
-      <category term="化学" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/"/>
+      <category term="化学" scheme="http://zachary12138.github.io/categories/%E5%8C%96%E5%AD%A6/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E5%8C%96%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E5%8C%96%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>物理</title>
-    <link href="http://yoursite.com/2019/03/26/%E7%89%A9%E7%90%86/"/>
-    <id>http://yoursite.com/2019/03/26/物理/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E7%89%A9%E7%90%86/"/>
+    <id>http://zachary12138.github.io/2019/03/26/物理/</id>
     <published>2019-03-25T22:55:00.000Z</published>
     <updated>2019-03-25T14:55:40.453Z</updated>
     
@@ -333,15 +333,15 @@
     
     </summary>
     
-      <category term="物理" scheme="http://yoursite.com/categories/%E7%89%A9%E7%90%86/"/>
+      <category term="物理" scheme="http://zachary12138.github.io/categories/%E7%89%A9%E7%90%86/"/>
     
     
   </entry>
   
   <entry>
     <title>语文</title>
-    <link href="http://yoursite.com/2019/03/26/%E8%AF%AD%E6%96%87/"/>
-    <id>http://yoursite.com/2019/03/26/语文/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E8%AF%AD%E6%96%87/"/>
+    <id>http://zachary12138.github.io/2019/03/26/语文/</id>
     <published>2019-03-25T22:54:00.000Z</published>
     <updated>2019-03-25T14:54:45.920Z</updated>
     
@@ -359,17 +359,17 @@
     
     </summary>
     
-      <category term="英语" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+      <category term="英语" scheme="http://zachary12138.github.io/categories/%E8%8B%B1%E8%AF%AD/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E8%8B%B1%E8%AF%AD/%E7%BB%BC%E8%BF%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>大学</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%A4%A7%E5%AD%A6/"/>
-    <id>http://yoursite.com/2019/03/26/大学/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%A4%A7%E5%AD%A6/"/>
+    <id>http://zachary12138.github.io/2019/03/26/大学/</id>
     <published>2019-03-25T22:40:00.000Z</published>
     <updated>2019-03-25T14:41:06.657Z</updated>
     
@@ -387,15 +387,15 @@
     
     </summary>
     
-      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+      <category term="林仲祥" scheme="http://zachary12138.github.io/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
     
     
   </entry>
   
   <entry>
     <title>初中</title>
-    <link href="http://yoursite.com/2019/03/26/%E5%88%9D%E4%B8%AD/"/>
-    <id>http://yoursite.com/2019/03/26/初中/</id>
+    <link href="http://zachary12138.github.io/2019/03/26/%E5%88%9D%E4%B8%AD/"/>
+    <id>http://zachary12138.github.io/2019/03/26/初中/</id>
     <published>2019-03-25T22:38:00.000Z</published>
     <updated>2019-03-25T14:39:26.028Z</updated>
     
@@ -418,8 +418,8 @@
   
   <entry>
     <title>数学综述</title>
-    <link href="http://yoursite.com/2019/03/25/%E6%95%B0%E5%AD%A6-Mathematics/"/>
-    <id>http://yoursite.com/2019/03/25/数学-Mathematics/</id>
+    <link href="http://zachary12138.github.io/2019/03/25/%E6%95%B0%E5%AD%A6-Mathematics/"/>
+    <id>http://zachary12138.github.io/2019/03/25/数学-Mathematics/</id>
     <published>2019-03-25T14:08:00.000Z</published>
     <updated>2019-03-24T14:29:23.170Z</updated>
     
@@ -437,19 +437,19 @@
     
     </summary>
     
-      <category term="数学" scheme="http://yoursite.com/categories/%E6%95%B0%E5%AD%A6/"/>
+      <category term="数学" scheme="http://zachary12138.github.io/categories/%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="综述" scheme="http://yoursite.com/categories/%E6%95%B0%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/categories/%E6%95%B0%E5%AD%A6/%E7%BB%BC%E8%BF%B0/"/>
     
     
-      <category term="综述" scheme="http://yoursite.com/tags/%E7%BB%BC%E8%BF%B0/"/>
+      <category term="综述" scheme="http://zachary12138.github.io/tags/%E7%BB%BC%E8%BF%B0/"/>
     
   </entry>
   
   <entry>
     <title>hexo搭建博客</title>
-    <link href="http://yoursite.com/2019/02/28/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/02/28/hexo搭建博客/</id>
+    <link href="http://zachary12138.github.io/2019/02/28/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://zachary12138.github.io/2019/02/28/hexo搭建博客/</id>
     <published>2019-02-28T10:47:58.000Z</published>
     <updated>2019-02-28T05:50:34.490Z</updated>
     
@@ -470,8 +470,8 @@
   
   <entry>
     <title>博客书写指南</title>
-    <link href="http://yoursite.com/2019/02/28/%E4%B9%A6%E5%86%99%E6%8C%87%E5%8D%97/"/>
-    <id>http://yoursite.com/2019/02/28/书写指南/</id>
+    <link href="http://zachary12138.github.io/2019/02/28/%E4%B9%A6%E5%86%99%E6%8C%87%E5%8D%97/"/>
+    <id>http://zachary12138.github.io/2019/02/28/书写指南/</id>
     <published>2019-02-28T00:56:00.000Z</published>
     <updated>2019-02-28T02:55:21.440Z</updated>
     
@@ -492,8 +492,8 @@
   
   <entry>
     <title>自我介绍</title>
-    <link href="http://yoursite.com/2019/02/28/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
-    <id>http://yoursite.com/2019/02/28/自我介绍/</id>
+    <link href="http://zachary12138.github.io/2019/02/28/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://zachary12138.github.io/2019/02/28/自我介绍/</id>
     <published>2019-02-27T19:37:49.000Z</published>
     <updated>2019-02-27T11:38:00.615Z</updated>
     
@@ -514,8 +514,8 @@
   
   <entry>
     <title>高中</title>
-    <link href="http://yoursite.com/2011/03/26/%E9%AB%98%E4%B8%AD/"/>
-    <id>http://yoursite.com/2011/03/26/高中/</id>
+    <link href="http://zachary12138.github.io/2011/03/26/%E9%AB%98%E4%B8%AD/"/>
+    <id>http://zachary12138.github.io/2011/03/26/高中/</id>
     <published>2011-03-25T22:39:00.000Z</published>
     <updated>2019-03-25T14:43:18.192Z</updated>
     
@@ -533,15 +533,15 @@
     
     </summary>
     
-      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+      <category term="林仲祥" scheme="http://zachary12138.github.io/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
     
     
   </entry>
   
   <entry>
     <title>小学</title>
-    <link href="http://yoursite.com/2002/03/26/%E7%AB%A5%E5%B9%B4/"/>
-    <id>http://yoursite.com/2002/03/26/童年/</id>
+    <link href="http://zachary12138.github.io/2002/03/26/%E7%AB%A5%E5%B9%B4/"/>
+    <id>http://zachary12138.github.io/2002/03/26/童年/</id>
     <published>2002-03-26T05:58:00.000Z</published>
     <updated>2019-03-26T05:56:50.058Z</updated>
     
@@ -559,7 +559,7 @@
     
     </summary>
     
-      <category term="林仲祥" scheme="http://yoursite.com/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
+      <category term="林仲祥" scheme="http://zachary12138.github.io/categories/%E6%9E%97%E4%BB%B2%E7%A5%A5/"/>
     
     
   </entry>
